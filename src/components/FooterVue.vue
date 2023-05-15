@@ -15,10 +15,7 @@ export default {
 </script>
 
 <template>
-    <header>
-        <NavbarUno/>
-        <NavbarDue/>
-    </header>
+    <h1>auowsrhgviouaWRG</h1>
 </template>
 
 <style scoped lang="scss">
