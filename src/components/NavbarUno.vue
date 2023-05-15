@@ -1,7 +1,6 @@
 <script >
-import { store } from '../store';
 export default {
-    name:'HeaderVue',
+    name:'NavbarUno',
     components:{
       
     },
