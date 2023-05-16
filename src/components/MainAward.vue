@@ -30,7 +30,9 @@ export default {
 <style scoped lang="scss">
     .xy{
         background-color: #ffffff;
-
+        background-image: url(../../public/confetti-29-unscreen.gif);
+        background-repeat: no-repeat;
+        background-size: cover;
         width: 100%;
         .container{
             height: 100vh;

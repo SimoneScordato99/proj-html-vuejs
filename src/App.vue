@@ -89,7 +89,7 @@ export default{
           </form>
 
           <div v-if="(store.prenotazione)" >
-            <p>la prenotazione è stata effettuata con successo a nome di {{ store.nomeUser }}{{ store.cognomeUser }} in data:{{ store.dataUser }}</p>
+            <p class="p-4 fs-3">La prenotazione è stata effettuata con <span class="text-success text-uppercase fw-bold">successo</span>  a nome di <strong>{{ store.nomeUser }} {{ store.cognomeUser }}</strong> in data: <strong>{{ store.dataUser }}</strong></p>
 
           </div>
 
