@@ -15,7 +15,7 @@ export default {
 </script>
 
 <template>
-    <div id="footer" class="xy">
+    <div id="footer" class="xyz">
         <div class="container ">
            <ul class="p-0 d-flex justify-content-center align-items-center text-white text-capitalize">
                 <li>&#169; copyright 2012-2020 | </li>
@@ -34,7 +34,7 @@ export default {
 </template>
 
 <style scoped lang="scss">
-    .xy{
+    .xyz{
         background-color: #6ABF17;
         width: 100%;
         .container{
