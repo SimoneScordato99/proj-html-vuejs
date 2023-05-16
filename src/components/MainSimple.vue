@@ -13,14 +13,14 @@ export default {
 </script>
 
 <template>
-    <div class="xy">
+    <div id="home" class="xy">
         <div class="container d-flex flex-column justify-content-center align-items-center text-uppercase fw-bold">
             <h5 class="fs-4 py-2">moving whitout the hassle</h5>
             <h2>we make it simple</h2>
             <h5 class="fs-4 py-2">professional service with quality and customer satisfaction</h5>
         </div>
     </div>
-    <a href="#" class="btn btn-primary big-btn fs-2 d-flex justify-content-center align-items-center" type="submit">
+    <a href="#" class="btn btn-primary big-btn fs-2 d-flex justify-content-center align-items-center" type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop" aria-controls="staticBackdrop">
         <i class="fa-solid fa-paper-plane px-3" style="color: #ffffff;"></i>
         <span>get a free quote online now</span>
     </a>
@@ -41,6 +41,7 @@ export default {
             margin: 0 auto;
             h2{
                 font-size: 5rem;
+                font-weight: bold;
             }
         }
     }

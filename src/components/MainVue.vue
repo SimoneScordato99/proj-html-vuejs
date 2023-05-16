@@ -1,5 +1,4 @@
 <script >
-import {store} from '../store';
 import MainSimple from './MainSimple.vue'
 import MainAward from './MainAward.vue'
 import MainSolution from './MainSolution.vue'
@@ -19,9 +18,12 @@ export default {
     },
     data(){
         return{
-            store
+            
         }
     },
+    methods:{
+        
+    }
 }
 </script>
 
@@ -32,8 +34,12 @@ export default {
     <MainEase/>
     <MainTestimonials/>
     <MainRequest/>
+    <a href="#" class="btn btn-primary position-fixed"><i class="fa-solid fa-arrow-up" style="color: #ffffff;"></i></a>
 </template>
 
 <style scoped lang="scss">
-    
+    a{
+        right: 20px;
+        bottom: 20px;
+    }
 </style>

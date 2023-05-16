@@ -22,14 +22,14 @@ export default {
             
             <div class="d-flex justify-content-between align-items-center">
                 <ul class="d-flex justify-content-between align-items-center fs-4 m-0">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Rates</a></li>
-                    <li><a href="#">Testimonials</a></li>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#rates">Rates</a></li>
+                    <li><a href="#testimonial">Testimonials</a></li>
                     <li><a href="#">FAQ</a></li>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
-                <button type="submit" class="btn btn-primary fs-4">free quote</button>
+                <button type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop" aria-controls="staticBackdrop" class="btn btn-primary fs-4">free quote</button>
             </div>
 
         </div>
