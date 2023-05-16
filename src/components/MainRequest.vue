@@ -13,7 +13,7 @@ export default {
 </script>
 
 <template>
-    <div class="xy">
+    <div id="request" class="xy">
         <div class="container d-flex flex-column justify-content-center align-items-center">
             <h2 class="text-uppercase fw-bold ">request a fre quote</h2>
             <p class="text-center p-5 fs-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia maxime quaerat earum molestiae eligendi dolores tempore, nobis consectetur odio porro hic quae velit enim sapiente unde explicabo, ad incidunt dolor!</p>

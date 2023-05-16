@@ -25,9 +25,9 @@ export default {
                     <li><a href="#home">Home</a></li>
                     <li><a href="#rates">Rates</a></li>
                     <li><a href="#testimonial">Testimonials</a></li>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="#footer">FAQ</a></li>
+                    <li><a href="#footer">Blog</a></li>
+                    <li><a href="#footer">Contact</a></li>
                 </ul>
                 <button type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop" aria-controls="staticBackdrop" class="btn btn-primary fs-4">free quote</button>
             </div>
