@@ -11,17 +11,20 @@ export default {
                 {
                     foto:'avada-movers-serviceonephoto-final.jpg',
                     titolo:'two man teams',
-                    didascalia:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, ab! Aliquam dolore totam quo eius explicabo iusto voluptates obcaecati neque veritatis assumenda molestias natus magnam ipsam, maiores dicta sunt possimus?'
+                    didascalia:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, ab! Aliquam dolore totam quo eius explicabo iusto voluptates obcaecati neque veritatis assumenda molestias natus magnam ipsam, maiores dicta sunt possimus?',
+                    id: 0001
                 },
                 {
                     foto:'avada-movers-servicetwophoto-final.jpg',
                     titolo:'we do all the lifting',
-                    didascalia:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, ab! Aliquam dolore totam quo eius explicabo iusto voluptates obcaecati neque veritatis assumenda molestias natus magnam ipsam, maiores dicta sunt possimus?'
+                    didascalia:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, ab! Aliquam dolore totam quo eius explicabo iusto voluptates obcaecati neque veritatis assumenda molestias natus magnam ipsam, maiores dicta sunt possimus?',
+                    id: 0002
                 },
                 {
                     foto:'avada-movers-servicethreephoto-final.jpg',
                     titolo:'coast to coast',
-                    didascalia:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, ab! Aliquam dolore totam quo eius explicabo iusto voluptates obcaecati neque veritatis assumenda molestias natus magnam ipsam, maiores dicta sunt possimus?'
+                    didascalia:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, ab! Aliquam dolore totam quo eius explicabo iusto voluptates obcaecati neque veritatis assumenda molestias natus magnam ipsam, maiores dicta sunt possimus?',
+                    id: 0003
                 }
             ]
         }

@@ -20,7 +20,7 @@ export default {
                 <h2 class="text-uppercase fw-bold">award winning</h2>
                 <h2 class="text-uppercase fw-bold">moving company</h2>
                 <p class="text-center py-5 fs-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, corrupti quod quisquam perspiciatis tempora error esse, in repellendus molestiae voluptatibus, reprehenderit possimus cumque illo modi? Eaque dolorem voluptatibus vero animi!</p>
-                <a href="#" class="btn btn-primary" type="submit">read our testimonials</a>
+                <a href="#testimonial" class="btn btn-primary" type="submit">read our testimonials</a>
             </div>
 
         </div>
